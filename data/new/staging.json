@@ -1,0 +1,2474 @@
+{
+  "0": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    }
+  },
+  "1": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "2": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "3": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "4": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "5": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "6": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "7": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "8": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "9": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "10": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "11": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "12": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "13": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "14": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "15": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "16": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "17": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "18": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "19": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": null,
+      "label": null
+    }
+  },
+  "20": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "21": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    }
+  },
+  "22": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "23": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "24": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "25": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "26": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "27": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "28": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "29": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "30": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "31": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "32": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "33": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "34": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "35": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "36": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "37": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "38": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    }
+  },
+  "39": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "40": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "41": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "42": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "43": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "44": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "45": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "46": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "47": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "48": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "49": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "50": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "51": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": null,
+      "label": null
+    }
+  },
+  "52": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "53": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "54": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": null,
+      "label": null
+    }
+  },
+  "55": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "56": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "57": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "58": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "59": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "60": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "61": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Late Stage"
+    }
+  },
+  "62": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "63": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "64": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "65": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "66": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "67": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "68": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "69": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "70": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "71": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "72": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "73": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "74": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "75": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "76": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "77": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "78": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": null,
+      "label": null
+    }
+  },
+  "79": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "80": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    }
+  },
+  "81": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    }
+  },
+  "82": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "83": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "84": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    }
+  },
+  "85": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    }
+  },
+  "86": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "87": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "88": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "89": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "90": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "91": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "92": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "93": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "94": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "95": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "96": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "97": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "98": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "99": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "100": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "101": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "102": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "103": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "104": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "105": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "106": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "107": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "108": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "109": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "110": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "111": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Late Stage"
+    }
+  },
+  "112": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "113": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "114": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "115": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "116": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "117": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "118": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "119": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": null,
+      "label": null
+    }
+  },
+  "120": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "121": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "122": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "123": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "124": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "125": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "126": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "127": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "128": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "129": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "130": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "131": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    }
+  },
+  "132": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "133": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "134": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "135": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "136": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "137": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "138": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "139": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "140": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "141": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "142": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "143": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "144": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "145": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "146": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "147": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "148": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "149": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "150": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "151": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "152": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "153": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "154": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "155": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "156": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "157": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "158": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "159": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "160": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "161": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "162": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "163": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "164": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "165": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "166": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "167": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "168": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "169": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "170": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "171": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "172": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "173": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "174": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "175": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "176": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "177": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "178": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "179": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "180": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "181": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    }
+  },
+  "182": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "183": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "184": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "185": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "186": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "187": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "188": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "189": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "190": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "191": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "192": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "193": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "194": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "195": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "196": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "197": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "198": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "199": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "200": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "201": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "202": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "203": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "204": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "205": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "206": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "207": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "208": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "209": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "210": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "211": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "212": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "213": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "214": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "215": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "216": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "217": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "218": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "219": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "220": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "221": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "222": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": null,
+      "label": null
+    }
+  },
+  "223": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "224": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "225": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "226": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "227": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "228": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "229": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "230": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "231": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "232": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "233": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "234": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "235": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "236": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "237": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "238": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "239": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "240": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "241": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "242": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "243": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "244": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "245": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "246": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "247": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "248": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "249": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "250": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "251": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "252": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "253": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "254": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "255": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "256": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "257": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "258": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    }
+  },
+  "259": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "260": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "261": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "262": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "263": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "264": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "265": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "266": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "267": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "268": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "269": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "270": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "271": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "272": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "273": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "274": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "275": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "276": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "277": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "278": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "279": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    }
+  },
+  "280": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": null,
+      "label": null
+    }
+  },
+  "281": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "282": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "283": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "284": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "285": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "286": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "287": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "288": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "289": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "290": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "291": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": null,
+      "label": null
+    }
+  },
+  "292": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "293": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "294": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "295": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "296": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "297": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "298": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "299": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    }
+  },
+  "300": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "301": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "302": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "303": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "304": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "305": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "306": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "307": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "308": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "309": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "310": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "311": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "312": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "313": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "314": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "315": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    }
+  },
+  "316": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "317": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "318": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "319": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "320": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    }
+  },
+  "321": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "322": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "323": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "324": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Late Stage"
+    }
+  },
+  "325": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "326": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "327": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "328": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "329": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    }
+  },
+  "330": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "331": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "332": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Late Stage"
+    }
+  },
+  "333": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "334": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    }
+  },
+  "335": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "336": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Late Stage"
+    }
+  },
+  "337": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "338": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "339": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "340": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "341": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "342": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "343": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "344": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "345": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "346": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "347": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "348": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "349": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "350": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "351": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "352": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "353": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "354": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "355": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "356": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "357": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "358": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "359": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "360": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "361": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "362": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "363": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "364": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "365": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "366": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "367": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "368": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "369": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "370": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "371": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "372": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "373": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "374": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "375": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "376": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "377": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "378": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "379": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "380": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "381": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "382": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "383": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "384": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "385": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "386": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "387": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "388": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    }
+  },
+  "389": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "390": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "391": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "392": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "393": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "394": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "395": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "396": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "397": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "398": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "399": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "400": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "401": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "402": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "403": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "404": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "405": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "406": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "407": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "408": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "409": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "410": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Late Stage"
+    }
+  },
+  "411": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  }
+}

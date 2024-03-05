@@ -1,0 +1,4122 @@
+{
+  "0": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.30224609375,
+      "label": 0.2702000141143799
+    }
+  },
+  "1": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.2493896484375,
+      "label": 0.2702000141143799
+    }
+  },
+  "2": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.09893798828125,
+      "label": null
+    }
+  },
+  "3": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.1768798828125,
+      "label": null
+    }
+  },
+  "4": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.335693359375,
+      "label": 0.25519999861717224
+    }
+  },
+  "5": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.301513671875,
+      "label": 0.25519999861717224
+    }
+  },
+  "6": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.1173095703125,
+      "label": null
+    }
+  },
+  "7": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.11651611328125,
+      "label": null
+    }
+  },
+  "8": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.365478515625,
+      "label": 0.39070001244544983
+    }
+  },
+  "9": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.37158203125,
+      "label": 0.39070001244544983
+    }
+  },
+  "10": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.16748046875,
+      "label": null
+    }
+  },
+  "11": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.049072265625,
+      "label": null
+    }
+  },
+  "12": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.367431640625,
+      "label": 0.018400000408291817
+    }
+  },
+  "13": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.3212890625,
+      "label": 0.38499999046325684
+    }
+  },
+  "14": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.424072265625,
+      "label": 0.38499999046325684
+    }
+  },
+  "15": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.253662109375,
+      "label": null
+    }
+  },
+  "16": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.3232421875,
+      "label": null
+    }
+  },
+  "17": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.35400390625,
+      "label": 0.366100013256073
+    }
+  },
+  "18": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.2059326171875,
+      "label": 0.366100013256073
+    }
+  },
+  "19": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": null,
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": null,
+      "label": null
+    }
+  },
+  "20": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": -0.0193023681640625,
+      "label": null
+    }
+  },
+  "21": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.63720703125,
+      "label": 0.7039999961853027
+    }
+  },
+  "22": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.28759765625,
+      "label": null
+    }
+  },
+  "23": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.330810546875,
+      "label": null
+    }
+  },
+  "24": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.434326171875,
+      "label": 0.5067999958992004
+    }
+  },
+  "25": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.266845703125,
+      "label": 0.46650001406669617
+    }
+  },
+  "26": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.364990234375,
+      "label": 0.46650001406669617
+    }
+  },
+  "27": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.1715087890625,
+      "label": null
+    }
+  },
+  "28": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.331787109375,
+      "label": null
+    }
+  },
+  "29": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.38427734375,
+      "label": 0.6269999742507935
+    }
+  },
+  "30": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.54443359375,
+      "label": 0.6269999742507935
+    }
+  },
+  "31": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.131103515625,
+      "label": null
+    }
+  },
+  "32": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.12109375,
+      "label": null
+    }
+  },
+  "33": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.331787109375,
+      "label": 0.21639999747276306
+    }
+  },
+  "34": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.43994140625,
+      "label": 0.21639999747276306
+    }
+  },
+  "35": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.07806396484375,
+      "label": null
+    }
+  },
+  "36": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": -0.12225341796875,
+      "label": null
+    }
+  },
+  "37": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.302001953125,
+      "label": 0.6388000249862671
+    }
+  },
+  "38": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.473388671875,
+      "label": 0.5917999744415283
+    }
+  },
+  "39": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.4140625,
+      "label": 0.5422000288963318
+    }
+  },
+  "40": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.21484375,
+      "label": 0.01899999938905239
+    }
+  },
+  "41": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.183837890625,
+      "label": 0.01899999938905239
+    }
+  },
+  "42": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.1873779296875,
+      "label": null
+    }
+  },
+  "43": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.194580078125,
+      "label": null
+    }
+  },
+  "44": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.449462890625,
+      "label": 0.00019999999494757503
+    }
+  },
+  "45": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.40673828125,
+      "label": 0.00019999999494757503
+    }
+  },
+  "46": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.1416015625,
+      "label": null
+    }
+  },
+  "47": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.1241455078125,
+      "label": null
+    }
+  },
+  "48": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.381591796875,
+      "label": 0.4864000082015991
+    }
+  },
+  "49": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.383544921875,
+      "label": 0.4864000082015991
+    }
+  },
+  "50": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.1539306640625,
+      "label": null
+    }
+  },
+  "51": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": null,
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": null,
+      "label": null
+    }
+  },
+  "52": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.386962890625,
+      "label": 0.23890000581741333
+    }
+  },
+  "53": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.310791015625,
+      "label": 0.23890000581741333
+    }
+  },
+  "54": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": null,
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": null,
+      "label": null
+    }
+  },
+  "55": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.051788330078125,
+      "label": null
+    }
+  },
+  "56": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.22802734375,
+      "label": 0.04390000179409981
+    }
+  },
+  "57": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.27587890625,
+      "label": 0.27880001068115234
+    }
+  },
+  "58": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.282958984375,
+      "label": 0.27880001068115234
+    }
+  },
+  "59": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.06597900390625,
+      "label": null
+    }
+  },
+  "60": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.265380859375,
+      "label": null
+    }
+  },
+  "61": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.3505859375,
+      "label": 0.2371000051498413
+    }
+  },
+  "62": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.371337890625,
+      "label": 0.2371000051498413
+    }
+  },
+  "63": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.229248046875,
+      "label": null
+    }
+  },
+  "64": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.260009765625,
+      "label": null
+    }
+  },
+  "65": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.359130859375,
+      "label": 0.0007999999797903001
+    }
+  },
+  "66": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.1441650390625,
+      "label": null
+    }
+  },
+  "67": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.517578125,
+      "label": 0.5810999870300293
+    }
+  },
+  "68": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.23583984375,
+      "label": null
+    }
+  },
+  "69": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.363037109375,
+      "label": 0.5817999839782715
+    }
+  },
+  "70": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.51220703125,
+      "label": 0.531499981880188
+    }
+  },
+  "71": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.277587890625,
+      "label": 0.21770000457763672
+    }
+  },
+  "72": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.326171875,
+      "label": 0.21770000457763672
+    }
+  },
+  "73": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.2493896484375,
+      "label": 0.21770000457763672
+    }
+  },
+  "74": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.242919921875,
+      "label": null
+    }
+  },
+  "75": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.1318359375,
+      "label": null
+    }
+  },
+  "76": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.12255859375,
+      "label": null
+    }
+  },
+  "77": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.434326171875,
+      "label": 0.30630001425743103
+    }
+  },
+  "78": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": null,
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": null,
+      "label": null
+    }
+  },
+  "79": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.22021484375,
+      "label": 0.010900000110268593
+    }
+  },
+  "80": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.2493896484375,
+      "label": 0.11159999668598175
+    }
+  },
+  "81": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.250244140625,
+      "label": 0.11159999668598175
+    }
+  },
+  "82": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.10089111328125,
+      "label": null
+    }
+  },
+  "83": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.1497802734375,
+      "label": null
+    }
+  },
+  "84": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.317138671875,
+      "label": 0.1177000030875206
+    }
+  },
+  "85": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.337158203125,
+      "label": 0.1177000030875206
+    }
+  },
+  "86": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.1478271484375,
+      "label": null
+    }
+  },
+  "87": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.144775390625,
+      "label": null
+    }
+  },
+  "88": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.341064453125,
+      "label": 0.1428000032901764
+    }
+  },
+  "89": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.318603515625,
+      "label": null
+    }
+  },
+  "90": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.1170654296875,
+      "label": 0.4059999883174896
+    }
+  },
+  "91": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.314208984375,
+      "label": 0.3025999963283539
+    }
+  },
+  "92": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.5361328125,
+      "label": 0.4334000051021576
+    }
+  },
+  "93": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.363525390625,
+      "label": 0.6014000177383423
+    }
+  },
+  "94": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.1322021484375,
+      "label": null
+    }
+  },
+  "95": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.172119140625,
+      "label": null
+    }
+  },
+  "96": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.09259033203125,
+      "label": null
+    }
+  },
+  "97": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.34521484375,
+      "label": 0.04100000113248825
+    }
+  },
+  "98": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.08624267578125,
+      "label": null
+    }
+  },
+  "99": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.1573486328125,
+      "label": null
+    }
+  },
+  "100": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.14501953125,
+      "label": null
+    }
+  },
+  "101": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.2310791015625,
+      "label": null
+    }
+  },
+  "102": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.277587890625,
+      "label": 0.09640000015497208
+    }
+  },
+  "103": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.1683349609375,
+      "label": null
+    }
+  },
+  "104": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.20947265625,
+      "label": null
+    }
+  },
+  "105": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.3212890625,
+      "label": 0.2549999952316284
+    }
+  },
+  "106": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.11981201171875,
+      "label": null
+    }
+  },
+  "107": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.3447265625,
+      "label": 0.27790001034736633
+    }
+  },
+  "108": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.366455078125,
+      "label": 0.032499998807907104
+    }
+  },
+  "109": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.2939453125,
+      "label": 0.06430000066757202
+    }
+  },
+  "110": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.25341796875,
+      "label": 0.484499990940094
+    }
+  },
+  "111": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.344482421875,
+      "label": 0.661300003528595
+    }
+  },
+  "112": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.292724609375,
+      "label": 0.28349998593330383
+    }
+  },
+  "113": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.2451171875,
+      "label": 0.2782999873161316
+    }
+  },
+  "114": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.27197265625,
+      "label": 0.10459999740123749
+    }
+  },
+  "115": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.1888427734375,
+      "label": 0.16140000522136688
+    }
+  },
+  "116": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.2274169921875,
+      "label": 0.46140000224113464
+    }
+  },
+  "117": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.2344970703125,
+      "label": 0.04390000179409981
+    }
+  },
+  "118": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.24658203125,
+      "label": 0.07580000162124634
+    }
+  },
+  "119": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": null,
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": null,
+      "label": null
+    }
+  },
+  "120": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.35400390625,
+      "label": 0.5641999840736389
+    }
+  },
+  "121": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.2210693359375,
+      "label": null
+    }
+  },
+  "122": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.224853515625,
+      "label": 0.18019999563694
+    }
+  },
+  "123": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.2081298828125,
+      "label": null
+    }
+  },
+  "124": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.3271484375,
+      "label": 0.3319999873638153
+    }
+  },
+  "125": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.1318359375,
+      "label": null
+    }
+  },
+  "126": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.281982421875,
+      "label": 0.006599999964237213
+    }
+  },
+  "127": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.321044921875,
+      "label": 0.18860000371932983
+    }
+  },
+  "128": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.348876953125,
+      "label": 0.5418999791145325
+    }
+  },
+  "129": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.29296875,
+      "label": 0.47699999809265137
+    }
+  },
+  "130": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.312744140625,
+      "label": 0.2069000005722046
+    }
+  },
+  "131": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.341552734375,
+      "label": 0.33160001039505005
+    }
+  },
+  "132": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.413330078125,
+      "label": 0.3666999936103821
+    }
+  },
+  "133": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.21142578125,
+      "label": 0.42640000581741333
+    }
+  },
+  "134": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.2266845703125,
+      "label": 0.2150000035762787
+    }
+  },
+  "135": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.28271484375,
+      "label": 0.20659999549388885
+    }
+  },
+  "136": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.34912109375,
+      "label": 0.37529999017715454
+    }
+  },
+  "137": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.4228515625,
+      "label": 0.35089999437332153
+    }
+  },
+  "138": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.121826171875,
+      "label": null
+    }
+  },
+  "139": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.066650390625,
+      "label": null
+    }
+  },
+  "140": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.12005615234375,
+      "label": null
+    }
+  },
+  "141": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.2418212890625,
+      "label": 0.027499999850988388
+    }
+  },
+  "142": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.289794921875,
+      "label": 0.48910000920295715
+    }
+  },
+  "143": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.473876953125,
+      "label": 0.05909999832510948
+    }
+  },
+  "144": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.166259765625,
+      "label": null
+    }
+  },
+  "145": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.2171630859375,
+      "label": 0.038600001484155655
+    }
+  },
+  "146": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.32666015625,
+      "label": 0.3334999978542328
+    }
+  },
+  "147": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.41064453125,
+      "label": 0.6729000210762024
+    }
+  },
+  "148": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.223388671875,
+      "label": null
+    }
+  },
+  "149": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.345703125,
+      "label": 0.4422000050544739
+    }
+  },
+  "150": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.363037109375,
+      "label": 0.3160000145435333
+    }
+  },
+  "151": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.108642578125,
+      "label": 0.05490000173449516
+    }
+  },
+  "152": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.41064453125,
+      "label": 0.10559999942779541
+    }
+  },
+  "153": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.2315673828125,
+      "label": 0.1111999973654747
+    }
+  },
+  "154": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.477294921875,
+      "label": 0.4675000011920929
+    }
+  },
+  "155": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.517578125,
+      "label": 0.4269999861717224
+    }
+  },
+  "156": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.473876953125,
+      "label": 0.9373000264167786
+    }
+  },
+  "157": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.192138671875,
+      "label": 0.0
+    }
+  },
+  "158": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.28955078125,
+      "label": 0.0
+    }
+  },
+  "159": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": -0.01519012451171875,
+      "label": null
+    }
+  },
+  "160": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.05718994140625,
+      "label": null
+    }
+  },
+  "161": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.33349609375,
+      "label": 0.3626999855041504
+    }
+  },
+  "162": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.298583984375,
+      "label": 0.3626999855041504
+    }
+  },
+  "163": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.098388671875,
+      "label": null
+    }
+  },
+  "164": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.302734375,
+      "label": null
+    }
+  },
+  "165": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.41748046875,
+      "label": 0.12600000202655792
+    }
+  },
+  "166": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.309814453125,
+      "label": 0.12600000202655792
+    }
+  },
+  "167": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.00858306884765625,
+      "label": null
+    }
+  },
+  "168": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.04656982421875,
+      "label": null
+    }
+  },
+  "169": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.35888671875,
+      "label": 0.45210000872612
+    }
+  },
+  "170": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.403076171875,
+      "label": 0.45210000872612
+    }
+  },
+  "171": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.130615234375,
+      "label": null
+    }
+  },
+  "172": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.1365966796875,
+      "label": null
+    }
+  },
+  "173": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.357421875,
+      "label": 0.36800000071525574
+    }
+  },
+  "174": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.25732421875,
+      "label": 0.36800000071525574
+    }
+  },
+  "175": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.040740966796875,
+      "label": null
+    }
+  },
+  "176": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.09442138671875,
+      "label": null
+    }
+  },
+  "177": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.349853515625,
+      "label": 0.28690001368522644
+    }
+  },
+  "178": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.418212890625,
+      "label": 0.28690001368522644
+    }
+  },
+  "179": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.099853515625,
+      "label": null
+    }
+  },
+  "180": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.2509765625,
+      "label": null
+    }
+  },
+  "181": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.464599609375,
+      "label": 0.5892000198364258
+    }
+  },
+  "182": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.4921875,
+      "label": 0.5892000198364258
+    }
+  },
+  "183": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.1773681640625,
+      "label": null
+    }
+  },
+  "184": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.278076171875,
+      "label": null
+    }
+  },
+  "185": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.43603515625,
+      "label": 0.6086000204086304
+    }
+  },
+  "186": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.385498046875,
+      "label": 0.22499999403953552
+    }
+  },
+  "187": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.332275390625,
+      "label": 0.3944000005722046
+    }
+  },
+  "188": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.32080078125,
+      "label": 0.23309999704360962
+    }
+  },
+  "189": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.49365234375,
+      "label": 0.15710000693798065
+    }
+  },
+  "190": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.418701171875,
+      "label": 0.5990999937057495
+    }
+  },
+  "191": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.3447265625,
+      "label": 0.4408999979496002
+    }
+  },
+  "192": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.338623046875,
+      "label": 0.29440000653266907
+    }
+  },
+  "193": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.42919921875,
+      "label": 0.029899999499320984
+    }
+  },
+  "194": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.485595703125,
+      "label": 0.7724000215530396
+    }
+  },
+  "195": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.58154296875,
+      "label": 0.8513000011444092
+    }
+  },
+  "196": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.505859375,
+      "label": 0.44859999418258667
+    }
+  },
+  "197": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.4765625,
+      "label": 0.41999998688697815
+    }
+  },
+  "198": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.5771484375,
+      "label": 0.5044000148773193
+    }
+  },
+  "199": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.42529296875,
+      "label": 0.0
+    }
+  },
+  "200": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.424560546875,
+      "label": 0.14920000731945038
+    }
+  },
+  "201": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.66357421875,
+      "label": 0.5200999975204468
+    }
+  },
+  "202": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.393310546875,
+      "label": 0.6010000109672546
+    }
+  },
+  "203": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.485107421875,
+      "label": 0.47940000891685486
+    }
+  },
+  "204": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.37158203125,
+      "label": 0.3637999892234802
+    }
+  },
+  "205": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.433837890625,
+      "label": 0.3637999892234802
+    }
+  },
+  "206": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.1614990234375,
+      "label": null
+    }
+  },
+  "207": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.18408203125,
+      "label": null
+    }
+  },
+  "208": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.290283203125,
+      "label": 0.13609999418258667
+    }
+  },
+  "209": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.3427734375,
+      "label": 0.13609999418258667
+    }
+  },
+  "210": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.07830810546875,
+      "label": null
+    }
+  },
+  "211": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.11181640625,
+      "label": null
+    }
+  },
+  "212": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.5009765625,
+      "label": 0.49799999594688416
+    }
+  },
+  "213": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.429443359375,
+      "label": 0.49799999594688416
+    }
+  },
+  "214": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.052520751953125,
+      "label": null
+    }
+  },
+  "215": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.08349609375,
+      "label": null
+    }
+  },
+  "216": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.350341796875,
+      "label": 0.31369999051094055
+    }
+  },
+  "217": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.3388671875,
+      "label": 0.31369999051094055
+    }
+  },
+  "218": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.1220703125,
+      "label": null
+    }
+  },
+  "219": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.12255859375,
+      "label": null
+    }
+  },
+  "220": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.32958984375,
+      "label": 0.3278000056743622
+    }
+  },
+  "221": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.339599609375,
+      "label": 0.3278000056743622
+    }
+  },
+  "222": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": null,
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": null,
+      "label": null
+    }
+  },
+  "223": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.238525390625,
+      "label": null
+    }
+  },
+  "224": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.2666015625,
+      "label": 0.35670000314712524
+    }
+  },
+  "225": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.216796875,
+      "label": 0.35670000314712524
+    }
+  },
+  "226": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.164306640625,
+      "label": null
+    }
+  },
+  "227": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.248046875,
+      "label": null
+    }
+  },
+  "228": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.399169921875,
+      "label": 0.4251999855041504
+    }
+  },
+  "229": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.298828125,
+      "label": 0.4251999855041504
+    }
+  },
+  "230": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.192626953125,
+      "label": null
+    }
+  },
+  "231": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.2041015625,
+      "label": null
+    }
+  },
+  "232": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.43359375,
+      "label": 0.40400001406669617
+    }
+  },
+  "233": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.378173828125,
+      "label": 0.40400001406669617
+    }
+  },
+  "234": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.09466552734375,
+      "label": null
+    }
+  },
+  "235": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.10418701171875,
+      "label": null
+    }
+  },
+  "236": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.32470703125,
+      "label": 0.739300012588501
+    }
+  },
+  "237": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.2415771484375,
+      "label": 0.739300012588501
+    }
+  },
+  "238": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.2164306640625,
+      "label": null
+    }
+  },
+  "239": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.12939453125,
+      "label": null
+    }
+  },
+  "240": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.36474609375,
+      "label": 0.5098000168800354
+    }
+  },
+  "241": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.4677734375,
+      "label": 0.5703999996185303
+    }
+  },
+  "242": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.365234375,
+      "label": 0.07559999823570251
+    }
+  },
+  "243": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.296630859375,
+      "label": 0.4943999946117401
+    }
+  },
+  "244": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.313720703125,
+      "label": 0.19589999318122864
+    }
+  },
+  "245": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.354248046875,
+      "label": 0.03689999878406525
+    }
+  },
+  "246": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.494140625,
+      "label": 0.6272000074386597
+    }
+  },
+  "247": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.274658203125,
+      "label": 0.4262000024318695
+    }
+  },
+  "248": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.2861328125,
+      "label": 0.2313999980688095
+    }
+  },
+  "249": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.17041015625,
+      "label": 0.03220000118017197
+    }
+  },
+  "250": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.445068359375,
+      "label": 0.4081000089645386
+    }
+  },
+  "251": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.234375,
+      "label": 0.10459999740123749
+    }
+  },
+  "252": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.382080078125,
+      "label": 0.4943000078201294
+    }
+  },
+  "253": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.36572265625,
+      "label": 0.5896000266075134
+    }
+  },
+  "254": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.26025390625,
+      "label": 0.06480000168085098
+    }
+  },
+  "255": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.2149658203125,
+      "label": 0.06480000168085098
+    }
+  },
+  "256": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.19140625,
+      "label": null
+    }
+  },
+  "257": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.045623779296875,
+      "label": null
+    }
+  },
+  "258": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.2646484375,
+      "label": 0.21080000698566437
+    }
+  },
+  "259": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.277099609375,
+      "label": 0.21080000698566437
+    }
+  },
+  "260": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.271728515625,
+      "label": null
+    }
+  },
+  "261": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.1334228515625,
+      "label": null
+    }
+  },
+  "262": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.471435546875,
+      "label": 0.6599000096321106
+    }
+  },
+  "263": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.2213134765625,
+      "label": 0.10840000212192535
+    }
+  },
+  "264": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.381591796875,
+      "label": 0.21529999375343323
+    }
+  },
+  "265": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.42822265625,
+      "label": 0.5081999897956848
+    }
+  },
+  "266": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.28857421875,
+      "label": 0.8216000199317932
+    }
+  },
+  "267": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.2998046875,
+      "label": 0.48080000281333923
+    }
+  },
+  "268": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.31005859375,
+      "label": 0.2671999931335449
+    }
+  },
+  "269": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.420166015625,
+      "label": 0.03180000185966492
+    }
+  },
+  "270": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.271240234375,
+      "label": 0.11550000309944153
+    }
+  },
+  "271": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.36181640625,
+      "label": 0.33889999985694885
+    }
+  },
+  "272": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.27783203125,
+      "label": 0.5289999842643738
+    }
+  },
+  "273": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.316162109375,
+      "label": 0.5394999980926514
+    }
+  },
+  "274": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.302490234375,
+      "label": 0.38530001044273376
+    }
+  },
+  "275": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.367431640625,
+      "label": 9.999999747378752e-05
+    }
+  },
+  "276": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.240234375,
+      "label": 0.031700000166893005
+    }
+  },
+  "277": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.4970703125,
+      "label": 0.5166000127792358
+    }
+  },
+  "278": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.318115234375,
+      "label": 0.33079999685287476
+    }
+  },
+  "279": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.44677734375,
+      "label": 0.45890000462532043
+    }
+  },
+  "280": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": null,
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": null,
+      "label": null
+    }
+  },
+  "281": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.4169921875,
+      "label": 0.02759999968111515
+    }
+  },
+  "282": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.32763671875,
+      "label": 0.14270000159740448
+    }
+  },
+  "283": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.365478515625,
+      "label": 0.38960000872612
+    }
+  },
+  "284": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.338134765625,
+      "label": 0.13689999282360077
+    }
+  },
+  "285": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.293701171875,
+      "label": 0.13490000367164612
+    }
+  },
+  "286": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.3681640625,
+      "label": 0.09229999780654907
+    }
+  },
+  "287": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.283203125,
+      "label": 0.24279999732971191
+    }
+  },
+  "288": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.324462890625,
+      "label": 0.5906000137329102
+    }
+  },
+  "289": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.39453125,
+      "label": 0.06809999793767929
+    }
+  },
+  "290": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.49658203125,
+      "label": 0.00019999999494757503
+    }
+  },
+  "291": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": null,
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": null,
+      "label": null
+    }
+  },
+  "292": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.53955078125,
+      "label": 0.5964999794960022
+    }
+  },
+  "293": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.40673828125,
+      "label": 0.07689999788999557
+    }
+  },
+  "294": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.470458984375,
+      "label": 0.10809999704360962
+    }
+  },
+  "295": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.4443359375,
+      "label": 0.7276999950408936
+    }
+  },
+  "296": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.14404296875,
+      "label": 0.06390000134706497
+    }
+  },
+  "297": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.495849609375,
+      "label": 0.6062999963760376
+    }
+  },
+  "298": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.31787109375,
+      "label": 0.1476999968290329
+    }
+  },
+  "299": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.32080078125,
+      "label": 0.10970000177621841
+    }
+  },
+  "300": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.38671875,
+      "label": 0.014499999582767487
+    }
+  },
+  "301": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.368408203125,
+      "label": 0.3528999984264374
+    }
+  },
+  "302": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.1834716796875,
+      "label": null
+    }
+  },
+  "303": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.272216796875,
+      "label": 0.27320000529289246
+    }
+  },
+  "304": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.48681640625,
+      "label": 0.24300000071525574
+    }
+  },
+  "305": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.257080078125,
+      "label": 0.13699999451637268
+    }
+  },
+  "306": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.38916015625,
+      "label": 0.40130001306533813
+    }
+  },
+  "307": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.52734375,
+      "label": 0.09839999675750732
+    }
+  },
+  "308": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.324951171875,
+      "label": 0.38769999146461487
+    }
+  },
+  "309": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.260009765625,
+      "label": 0.32510000467300415
+    }
+  },
+  "310": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.39404296875,
+      "label": 0.22030000388622284
+    }
+  },
+  "311": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.399169921875,
+      "label": 0.03240000084042549
+    }
+  },
+  "312": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.193359375,
+      "label": 0.038100000470876694
+    }
+  },
+  "313": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.3349609375,
+      "label": 0.04179999977350235
+    }
+  },
+  "314": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.442626953125,
+      "label": 0.4162999987602234
+    }
+  },
+  "315": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.3896484375,
+      "label": 0.6403999924659729
+    }
+  },
+  "316": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.35986328125,
+      "label": 0.34439998865127563
+    }
+  },
+  "317": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.38037109375,
+      "label": 0.41130000352859497
+    }
+  },
+  "318": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.447998046875,
+      "label": 0.33090001344680786
+    }
+  },
+  "319": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.331298828125,
+      "label": 0.06239999830722809
+    }
+  },
+  "320": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.288818359375,
+      "label": 0.4074000120162964
+    }
+  },
+  "321": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.28955078125,
+      "label": 0.3732999861240387
+    }
+  },
+  "322": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.1856689453125,
+      "label": 0.11389999836683273
+    }
+  },
+  "323": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.37841796875,
+      "label": 0.4034000039100647
+    }
+  },
+  "324": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.19580078125,
+      "label": 0.1906999945640564
+    }
+  },
+  "325": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.336669921875,
+      "label": 0.16689999401569366
+    }
+  },
+  "326": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.362548828125,
+      "label": 0.14300000667572021
+    }
+  },
+  "327": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.29150390625,
+      "label": 0.12630000710487366
+    }
+  },
+  "328": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.29150390625,
+      "label": 0.3718999922275543
+    }
+  },
+  "329": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.30224609375,
+      "label": 0.26910001039505005
+    }
+  },
+  "330": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.2093505859375,
+      "label": 0.09359999746084213
+    }
+  },
+  "331": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.187744140625,
+      "label": 0.03689999878406525
+    }
+  },
+  "332": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.3486328125,
+      "label": 0.21809999644756317
+    }
+  },
+  "333": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.212646484375,
+      "label": 0.12139999866485596
+    }
+  },
+  "334": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.4853515625,
+      "label": 0.29820001125335693
+    }
+  },
+  "335": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.396728515625,
+      "label": 0.13359999656677246
+    }
+  },
+  "336": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.279296875,
+      "label": 0.17479999363422394
+    }
+  },
+  "337": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.230712890625,
+      "label": 0.16769999265670776
+    }
+  },
+  "338": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.497314453125,
+      "label": 0.3273000121116638
+    }
+  },
+  "339": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.296630859375,
+      "label": 0.03460000082850456
+    }
+  },
+  "340": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.346923828125,
+      "label": 0.29919999837875366
+    }
+  },
+  "341": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.1279296875,
+      "label": 0.2459000051021576
+    }
+  },
+  "342": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.352294921875,
+      "label": 0.2370000034570694
+    }
+  },
+  "343": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.18798828125,
+      "label": 0.04179999977350235
+    }
+  },
+  "344": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.36083984375,
+      "label": 0.2386000007390976
+    }
+  },
+  "345": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.1502685546875,
+      "label": null
+    }
+  },
+  "346": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.1719970703125,
+      "label": 0.4052000045776367
+    }
+  },
+  "347": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.1649169921875,
+      "label": null
+    }
+  },
+  "348": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.5263671875,
+      "label": 0.4544999897480011
+    }
+  },
+  "349": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.416748046875,
+      "label": 0.2549000084400177
+    }
+  },
+  "350": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.279541015625,
+      "label": 0.5031999945640564
+    }
+  },
+  "351": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.261962890625,
+      "label": 0.00039999998989515007
+    }
+  },
+  "352": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.3583984375,
+      "label": 0.0
+    }
+  },
+  "353": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.5068359375,
+      "label": 0.41830000281333923
+    }
+  },
+  "354": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.2076416015625,
+      "label": 0.5108000040054321
+    }
+  },
+  "355": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.384033203125,
+      "label": 0.000699999975040555
+    }
+  },
+  "356": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.190673828125,
+      "label": 0.319599986076355
+    }
+  },
+  "357": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.1651611328125,
+      "label": 0.1859000027179718
+    }
+  },
+  "358": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.3076171875,
+      "label": 0.25920000672340393
+    }
+  },
+  "359": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.38232421875,
+      "label": 0.5246000289916992
+    }
+  },
+  "360": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.1900634765625,
+      "label": 0.0
+    }
+  },
+  "361": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.218017578125,
+      "label": 0.3508000075817108
+    }
+  },
+  "362": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.45849609375,
+      "label": 0.3499000072479248
+    }
+  },
+  "363": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.377685546875,
+      "label": 0.258899986743927
+    }
+  },
+  "364": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.468994140625,
+      "label": 0.22859999537467957
+    }
+  },
+  "365": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.318359375,
+      "label": 0.013500000350177288
+    }
+  },
+  "366": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.38525390625,
+      "label": 0.6218000054359436
+    }
+  },
+  "367": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.2310791015625,
+      "label": 0.13040000200271606
+    }
+  },
+  "368": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.40380859375,
+      "label": 0.5557000041007996
+    }
+  },
+  "369": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.243896484375,
+      "label": 0.49390000104904175
+    }
+  },
+  "370": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.15380859375,
+      "label": 0.35519999265670776
+    }
+  },
+  "371": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.3134765625,
+      "label": 0.1932000070810318
+    }
+  },
+  "372": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.357421875,
+      "label": 0.28060001134872437
+    }
+  },
+  "373": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.2095947265625,
+      "label": 0.09440000355243683
+    }
+  },
+  "374": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.4736328125,
+      "label": 0.30070000886917114
+    }
+  },
+  "375": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.316162109375,
+      "label": 0.06769999861717224
+    }
+  },
+  "376": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.2529296875,
+      "label": 0.27379998564720154
+    }
+  },
+  "377": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.3271484375,
+      "label": 0.1356000006198883
+    }
+  },
+  "378": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.348388671875,
+      "label": 0.2190999984741211
+    }
+  },
+  "379": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.430908203125,
+      "label": 0.44760000705718994
+    }
+  },
+  "380": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.43505859375,
+      "label": 0.4140999913215637
+    }
+  },
+  "381": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.276123046875,
+      "label": 0.18619999289512634
+    }
+  },
+  "382": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.2054443359375,
+      "label": 0.01140000019222498
+    }
+  },
+  "383": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.250244140625,
+      "label": 0.19709999859333038
+    }
+  },
+  "384": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.4794921875,
+      "label": 0.6868000030517578
+    }
+  },
+  "385": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.489013671875,
+      "label": 0.19750000536441803
+    }
+  },
+  "386": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.30712890625,
+      "label": 0.38429999351501465
+    }
+  },
+  "387": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.409912109375,
+      "label": 0.7150999903678894
+    }
+  },
+  "388": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.3193359375,
+      "label": 0.4311000108718872
+    }
+  },
+  "389": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.69677734375,
+      "label": 0.04309999942779541
+    }
+  },
+  "390": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.2724609375,
+      "label": 0.6674000024795532
+    }
+  },
+  "391": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.1512451171875,
+      "label": 0.4909999966621399
+    }
+  },
+  "392": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.478759765625,
+      "label": 0.5953999757766724
+    }
+  },
+  "393": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.51416015625,
+      "label": 0.6276999711990356
+    }
+  },
+  "394": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.431884765625,
+      "label": 0.46230000257492065
+    }
+  },
+  "395": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.32568359375,
+      "label": 0.6606000065803528
+    }
+  },
+  "396": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.58154296875,
+      "label": 0.6557999849319458
+    }
+  },
+  "397": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.1270751953125,
+      "label": 0.6545000076293945
+    }
+  },
+  "398": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.263916015625,
+      "label": 0.2578999996185303
+    }
+  },
+  "399": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.347412109375,
+      "label": 0.12720000743865967
+    }
+  },
+  "400": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.263427734375,
+      "label": 0.00039999998989515007
+    }
+  },
+  "401": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.1446533203125,
+      "label": 0.01940000057220459
+    }
+  },
+  "402": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.196533203125,
+      "label": 0.07599999755620956
+    }
+  },
+  "403": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.3349609375,
+      "label": 0.4205000102519989
+    }
+  },
+  "404": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.2393798828125,
+      "label": 0.483599990606308
+    }
+  },
+  "405": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.2861328125,
+      "label": 0.3804999887943268
+    }
+  },
+  "406": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.33056640625,
+      "label": 0.15449999272823334
+    }
+  },
+  "407": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.31982421875,
+      "label": 0.33649998903274536
+    }
+  },
+  "408": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.2978515625,
+      "label": 0.5443000197410583
+    }
+  },
+  "409": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.347900390625,
+      "label": 0.4490000009536743
+    }
+  },
+  "410": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.53515625,
+      "label": 0.5598000288009644
+    }
+  },
+  "411": {
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.315185546875,
+      "label": 0.5419999957084656
+    }
+  }
+}

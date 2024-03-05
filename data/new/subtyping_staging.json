@@ -1,0 +1,4122 @@
+{
+  "0": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "1": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "2": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "3": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "4": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "5": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "6": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "7": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "8": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "9": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "10": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "11": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "12": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "13": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "14": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "15": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "16": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "17": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    }
+  },
+  "18": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    }
+  },
+  "19": {
+    "lung-cancer-subtyping": {
+      "pred": null,
+      "label": null
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": null,
+      "label": null
+    }
+  },
+  "20": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "21": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "22": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "23": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "24": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "25": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "26": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "27": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "28": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "29": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "30": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "31": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "32": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "33": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "34": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "35": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "36": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "37": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "38": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "39": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "40": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "41": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "42": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "43": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "44": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "45": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "46": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "47": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "48": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    }
+  },
+  "49": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    }
+  },
+  "50": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "51": {
+    "lung-cancer-subtyping": {
+      "pred": null,
+      "label": null
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": null,
+      "label": null
+    }
+  },
+  "52": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    }
+  },
+  "53": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    }
+  },
+  "54": {
+    "lung-cancer-subtyping": {
+      "pred": null,
+      "label": null
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": null,
+      "label": null
+    }
+  },
+  "55": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "56": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "57": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "58": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "59": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "60": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "61": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "62": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Late Stage"
+    }
+  },
+  "63": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "64": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "65": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "66": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "67": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "68": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "69": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "70": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "71": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "72": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "73": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "74": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "75": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "76": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "77": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "78": {
+    "lung-cancer-subtyping": {
+      "pred": null,
+      "label": null
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": null,
+      "label": null
+    }
+  },
+  "79": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "80": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    }
+  },
+  "81": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    }
+  },
+  "82": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "83": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "84": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    }
+  },
+  "85": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    }
+  },
+  "86": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "87": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "88": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "89": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "90": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "91": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "92": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    }
+  },
+  "93": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "94": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "95": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "96": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "97": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "98": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "99": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "100": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "101": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "102": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "103": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "104": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "105": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "106": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "107": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "108": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "109": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "110": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "111": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Late Stage"
+    }
+  },
+  "112": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "113": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "114": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "115": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "116": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    }
+  },
+  "117": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "118": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "119": {
+    "lung-cancer-subtyping": {
+      "pred": null,
+      "label": null
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": null,
+      "label": null
+    }
+  },
+  "120": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "121": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "122": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "123": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "124": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    }
+  },
+  "125": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "126": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "127": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "128": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "129": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "130": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "131": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    }
+  },
+  "132": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "133": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "134": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "135": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "136": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    }
+  },
+  "137": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "138": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "139": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "140": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "141": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "142": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "143": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "144": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "145": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "146": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "147": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "148": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "149": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "150": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "151": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "152": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "153": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "154": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "155": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "156": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "157": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    }
+  },
+  "158": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "159": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "160": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "161": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "162": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "163": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "164": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "165": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "166": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "167": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "168": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "169": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "170": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "171": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "172": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "173": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "174": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "175": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "176": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "177": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "178": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "179": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "180": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "181": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "182": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    }
+  },
+  "183": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "184": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "185": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "186": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "187": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "188": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "189": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "190": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "191": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "192": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "193": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    }
+  },
+  "194": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "195": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "196": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "197": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "198": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "199": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "200": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "201": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "202": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "203": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "204": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "205": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "206": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "207": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "208": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "209": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "210": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "211": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "212": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "213": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "214": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "215": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "216": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "217": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "218": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "219": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "220": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "221": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "222": {
+    "lung-cancer-subtyping": {
+      "pred": null,
+      "label": null
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": null,
+      "label": null
+    }
+  },
+  "223": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "224": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "225": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "226": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "227": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "228": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "229": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "230": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "231": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "232": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "233": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "234": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "235": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "236": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "237": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "238": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "239": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "240": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "241": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "242": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    }
+  },
+  "243": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "244": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "245": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "246": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "247": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "248": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "249": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "250": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "251": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "252": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "253": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "254": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "255": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    }
+  },
+  "256": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "257": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "258": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "259": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "260": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "261": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "262": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "263": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "264": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "265": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "266": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "267": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "268": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "269": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "270": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "271": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "272": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "273": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "274": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "275": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "276": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "277": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "278": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "279": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    }
+  },
+  "280": {
+    "lung-cancer-subtyping": {
+      "pred": null,
+      "label": null
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": null,
+      "label": null
+    }
+  },
+  "281": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "282": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "283": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "284": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Late Stage"
+    }
+  },
+  "285": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "286": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "287": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "288": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "289": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "290": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "291": {
+    "lung-cancer-subtyping": {
+      "pred": null,
+      "label": null
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": null,
+      "label": null
+    }
+  },
+  "292": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "293": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "294": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "295": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    }
+  },
+  "296": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "297": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "298": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "299": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    }
+  },
+  "300": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "301": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    }
+  },
+  "302": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "303": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "304": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "305": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "306": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "307": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    }
+  },
+  "308": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    }
+  },
+  "309": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "310": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "311": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "312": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Late Stage"
+    }
+  },
+  "313": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "314": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "315": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "316": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "317": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "318": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "319": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "320": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "321": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "322": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "323": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "324": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Late Stage"
+    }
+  },
+  "325": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "326": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "327": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "328": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "329": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "330": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "331": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "332": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "333": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "334": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "335": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "336": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Late Stage"
+    }
+  },
+  "337": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "338": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "339": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "340": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "341": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "342": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "343": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "344": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "345": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "346": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "347": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    }
+  },
+  "348": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "349": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "350": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "351": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "352": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "353": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "354": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "355": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "356": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "357": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    }
+  },
+  "358": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "359": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "360": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "361": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "362": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "363": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "364": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "365": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "366": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "367": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "368": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "369": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "370": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "371": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "372": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "373": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "374": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "375": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "376": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "377": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "378": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "379": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "380": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "381": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "382": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "383": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "384": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "385": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "386": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "387": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "388": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    }
+  },
+  "389": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "390": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "391": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    }
+  },
+  "392": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "393": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "394": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "395": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "396": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "397": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    }
+  },
+  "398": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "399": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "400": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    }
+  },
+  "401": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "402": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "403": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "404": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "405": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    }
+  },
+  "406": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "407": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Late Stage"
+    }
+  },
+  "408": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  },
+  "409": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "410": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    }
+  },
+  "411": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    }
+  }
+}

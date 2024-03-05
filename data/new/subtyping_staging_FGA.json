@@ -1,0 +1,5770 @@
+{
+  "0": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.3388671875,
+      "label": 0.2702000141143799
+    }
+  },
+  "1": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.62060546875,
+      "label": 0.2702000141143799
+    }
+  },
+  "2": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.2646484375,
+      "label": null
+    }
+  },
+  "3": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.063720703125,
+      "label": null
+    }
+  },
+  "4": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.402099609375,
+      "label": 0.25519999861717224
+    }
+  },
+  "5": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.54638671875,
+      "label": 0.25519999861717224
+    }
+  },
+  "6": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.623046875,
+      "label": null
+    }
+  },
+  "7": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.705078125,
+      "label": null
+    }
+  },
+  "8": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.63818359375,
+      "label": 0.39070001244544983
+    }
+  },
+  "9": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.412841796875,
+      "label": 0.39070001244544983
+    }
+  },
+  "10": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.322998046875,
+      "label": null
+    }
+  },
+  "11": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.306884765625,
+      "label": null
+    }
+  },
+  "12": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.27392578125,
+      "label": 0.018400000408291817
+    }
+  },
+  "13": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.556640625,
+      "label": 0.38499999046325684
+    }
+  },
+  "14": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.60107421875,
+      "label": 0.38499999046325684
+    }
+  },
+  "15": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.468505859375,
+      "label": null
+    }
+  },
+  "16": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.043060302734375,
+      "label": null
+    }
+  },
+  "17": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.401123046875,
+      "label": 0.366100013256073
+    }
+  },
+  "18": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.380859375,
+      "label": 0.366100013256073
+    }
+  },
+  "19": {
+    "lung-cancer-subtyping": {
+      "pred": null,
+      "label": null
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": null,
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": null,
+      "label": null
+    }
+  },
+  "20": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.0289154052734375,
+      "label": null
+    }
+  },
+  "21": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.31201171875,
+      "label": 0.7039999961853027
+    }
+  },
+  "22": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.089599609375,
+      "label": null
+    }
+  },
+  "23": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.06011962890625,
+      "label": null
+    }
+  },
+  "24": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.34033203125,
+      "label": 0.5067999958992004
+    }
+  },
+  "25": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.50244140625,
+      "label": 0.46650001406669617
+    }
+  },
+  "26": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.57275390625,
+      "label": 0.46650001406669617
+    }
+  },
+  "27": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.53955078125,
+      "label": null
+    }
+  },
+  "28": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.48486328125,
+      "label": null
+    }
+  },
+  "29": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.469482421875,
+      "label": 0.6269999742507935
+    }
+  },
+  "30": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.49951171875,
+      "label": 0.6269999742507935
+    }
+  },
+  "31": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.390869140625,
+      "label": null
+    }
+  },
+  "32": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.4326171875,
+      "label": null
+    }
+  },
+  "33": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.4462890625,
+      "label": 0.21639999747276306
+    }
+  },
+  "34": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.61083984375,
+      "label": 0.21639999747276306
+    }
+  },
+  "35": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.20947265625,
+      "label": null
+    }
+  },
+  "36": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.5244140625,
+      "label": null
+    }
+  },
+  "37": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.6943359375,
+      "label": 0.6388000249862671
+    }
+  },
+  "38": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.498291015625,
+      "label": 0.5917999744415283
+    }
+  },
+  "39": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.289306640625,
+      "label": 0.5422000288963318
+    }
+  },
+  "40": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.376220703125,
+      "label": 0.01899999938905239
+    }
+  },
+  "41": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.32568359375,
+      "label": 0.01899999938905239
+    }
+  },
+  "42": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.390380859375,
+      "label": null
+    }
+  },
+  "43": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.1871337890625,
+      "label": null
+    }
+  },
+  "44": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.5390625,
+      "label": 0.00019999999494757503
+    }
+  },
+  "45": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.390380859375,
+      "label": 0.00019999999494757503
+    }
+  },
+  "46": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.396240234375,
+      "label": null
+    }
+  },
+  "47": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.355712890625,
+      "label": null
+    }
+  },
+  "48": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.350830078125,
+      "label": 0.4864000082015991
+    }
+  },
+  "49": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.47119140625,
+      "label": 0.4864000082015991
+    }
+  },
+  "50": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.80517578125,
+      "label": null
+    }
+  },
+  "51": {
+    "lung-cancer-subtyping": {
+      "pred": null,
+      "label": null
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": null,
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": null,
+      "label": null
+    }
+  },
+  "52": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.4296875,
+      "label": 0.23890000581741333
+    }
+  },
+  "53": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.3408203125,
+      "label": 0.23890000581741333
+    }
+  },
+  "54": {
+    "lung-cancer-subtyping": {
+      "pred": null,
+      "label": null
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": null,
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": null,
+      "label": null
+    }
+  },
+  "55": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.490478515625,
+      "label": null
+    }
+  },
+  "56": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.276123046875,
+      "label": 0.04390000179409981
+    }
+  },
+  "57": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.37109375,
+      "label": 0.27880001068115234
+    }
+  },
+  "58": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.640625,
+      "label": 0.27880001068115234
+    }
+  },
+  "59": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.51318359375,
+      "label": null
+    }
+  },
+  "60": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.5625,
+      "label": null
+    }
+  },
+  "61": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.404541015625,
+      "label": 0.2371000051498413
+    }
+  },
+  "62": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.362548828125,
+      "label": 0.2371000051498413
+    }
+  },
+  "63": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.255859375,
+      "label": null
+    }
+  },
+  "64": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.2335205078125,
+      "label": null
+    }
+  },
+  "65": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.29296875,
+      "label": 0.0007999999797903001
+    }
+  },
+  "66": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.2255859375,
+      "label": null
+    }
+  },
+  "67": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.2242431640625,
+      "label": 0.5810999870300293
+    }
+  },
+  "68": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.1676025390625,
+      "label": null
+    }
+  },
+  "69": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.336181640625,
+      "label": 0.5817999839782715
+    }
+  },
+  "70": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.2213134765625,
+      "label": 0.531499981880188
+    }
+  },
+  "71": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.0576171875,
+      "label": 0.21770000457763672
+    }
+  },
+  "72": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.05743408203125,
+      "label": 0.21770000457763672
+    }
+  },
+  "73": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.2020263671875,
+      "label": 0.21770000457763672
+    }
+  },
+  "74": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.2379150390625,
+      "label": null
+    }
+  },
+  "75": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.00811004638671875,
+      "label": null
+    }
+  },
+  "76": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.09405517578125,
+      "label": null
+    }
+  },
+  "77": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.265380859375,
+      "label": 0.30630001425743103
+    }
+  },
+  "78": {
+    "lung-cancer-subtyping": {
+      "pred": null,
+      "label": null
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": null,
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": null,
+      "label": null
+    }
+  },
+  "79": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.2349853515625,
+      "label": 0.010900000110268593
+    }
+  },
+  "80": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.412109375,
+      "label": 0.11159999668598175
+    }
+  },
+  "81": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.08123779296875,
+      "label": 0.11159999668598175
+    }
+  },
+  "82": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.241455078125,
+      "label": null
+    }
+  },
+  "83": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.11614990234375,
+      "label": null
+    }
+  },
+  "84": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.33203125,
+      "label": 0.1177000030875206
+    }
+  },
+  "85": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.234619140625,
+      "label": 0.1177000030875206
+    }
+  },
+  "86": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.181884765625,
+      "label": null
+    }
+  },
+  "87": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.2198486328125,
+      "label": null
+    }
+  },
+  "88": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.315673828125,
+      "label": 0.1428000032901764
+    }
+  },
+  "89": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.2066650390625,
+      "label": null
+    }
+  },
+  "90": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.44482421875,
+      "label": 0.4059999883174896
+    }
+  },
+  "91": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.37890625,
+      "label": 0.3025999963283539
+    }
+  },
+  "92": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.53662109375,
+      "label": 0.4334000051021576
+    }
+  },
+  "93": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.2890625,
+      "label": 0.6014000177383423
+    }
+  },
+  "94": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.3525390625,
+      "label": null
+    }
+  },
+  "95": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.63427734375,
+      "label": null
+    }
+  },
+  "96": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.73828125,
+      "label": null
+    }
+  },
+  "97": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.328125,
+      "label": 0.04100000113248825
+    }
+  },
+  "98": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.15673828125,
+      "label": null
+    }
+  },
+  "99": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.488037109375,
+      "label": null
+    }
+  },
+  "100": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.2091064453125,
+      "label": null
+    }
+  },
+  "101": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.43701171875,
+      "label": null
+    }
+  },
+  "102": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.36865234375,
+      "label": 0.09640000015497208
+    }
+  },
+  "103": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.677734375,
+      "label": null
+    }
+  },
+  "104": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.54150390625,
+      "label": null
+    }
+  },
+  "105": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.15234375,
+      "label": 0.2549999952316284
+    }
+  },
+  "106": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.385009765625,
+      "label": null
+    }
+  },
+  "107": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.30615234375,
+      "label": 0.27790001034736633
+    }
+  },
+  "108": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.150390625,
+      "label": 0.032499998807907104
+    }
+  },
+  "109": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.62353515625,
+      "label": 0.06430000066757202
+    }
+  },
+  "110": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.5625,
+      "label": 0.484499990940094
+    }
+  },
+  "111": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.35693359375,
+      "label": 0.661300003528595
+    }
+  },
+  "112": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.0738525390625,
+      "label": 0.28349998593330383
+    }
+  },
+  "113": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.393798828125,
+      "label": 0.2782999873161316
+    }
+  },
+  "114": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.273193359375,
+      "label": 0.10459999740123749
+    }
+  },
+  "115": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.323486328125,
+      "label": 0.16140000522136688
+    }
+  },
+  "116": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.427734375,
+      "label": 0.46140000224113464
+    }
+  },
+  "117": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.368408203125,
+      "label": 0.04390000179409981
+    }
+  },
+  "118": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.199462890625,
+      "label": 0.07580000162124634
+    }
+  },
+  "119": {
+    "lung-cancer-subtyping": {
+      "pred": null,
+      "label": null
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": null,
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": null,
+      "label": null
+    }
+  },
+  "120": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.464599609375,
+      "label": 0.5641999840736389
+    }
+  },
+  "121": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.432861328125,
+      "label": null
+    }
+  },
+  "122": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.371826171875,
+      "label": 0.18019999563694
+    }
+  },
+  "123": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.94091796875,
+      "label": null
+    }
+  },
+  "124": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.1611328125,
+      "label": 0.3319999873638153
+    }
+  },
+  "125": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.1864013671875,
+      "label": null
+    }
+  },
+  "126": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.25537109375,
+      "label": 0.006599999964237213
+    }
+  },
+  "127": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.36279296875,
+      "label": 0.18860000371932983
+    }
+  },
+  "128": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.44384765625,
+      "label": 0.5418999791145325
+    }
+  },
+  "129": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.344970703125,
+      "label": 0.47699999809265137
+    }
+  },
+  "130": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.3681640625,
+      "label": 0.2069000005722046
+    }
+  },
+  "131": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.669921875,
+      "label": 0.33160001039505005
+    }
+  },
+  "132": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.439697265625,
+      "label": 0.3666999936103821
+    }
+  },
+  "133": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.266357421875,
+      "label": 0.42640000581741333
+    }
+  },
+  "134": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.60205078125,
+      "label": 0.2150000035762787
+    }
+  },
+  "135": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.042449951171875,
+      "label": 0.20659999549388885
+    }
+  },
+  "136": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.310546875,
+      "label": 0.37529999017715454
+    }
+  },
+  "137": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.564453125,
+      "label": 0.35089999437332153
+    }
+  },
+  "138": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.53515625,
+      "label": null
+    }
+  },
+  "139": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.52392578125,
+      "label": null
+    }
+  },
+  "140": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.55126953125,
+      "label": null
+    }
+  },
+  "141": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.2303466796875,
+      "label": 0.027499999850988388
+    }
+  },
+  "142": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.09625244140625,
+      "label": 0.48910000920295715
+    }
+  },
+  "143": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.454833984375,
+      "label": 0.05909999832510948
+    }
+  },
+  "144": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.2420654296875,
+      "label": null
+    }
+  },
+  "145": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.34033203125,
+      "label": 0.038600001484155655
+    }
+  },
+  "146": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.62939453125,
+      "label": 0.3334999978542328
+    }
+  },
+  "147": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.5439453125,
+      "label": 0.6729000210762024
+    }
+  },
+  "148": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.472412109375,
+      "label": null
+    }
+  },
+  "149": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.399169921875,
+      "label": 0.4422000050544739
+    }
+  },
+  "150": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.273681640625,
+      "label": 0.3160000145435333
+    }
+  },
+  "151": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.41357421875,
+      "label": 0.05490000173449516
+    }
+  },
+  "152": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.26123046875,
+      "label": 0.10559999942779541
+    }
+  },
+  "153": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.57861328125,
+      "label": 0.1111999973654747
+    }
+  },
+  "154": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.2091064453125,
+      "label": 0.4675000011920929
+    }
+  },
+  "155": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.471435546875,
+      "label": 0.4269999861717224
+    }
+  },
+  "156": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.2490234375,
+      "label": 0.9373000264167786
+    }
+  },
+  "157": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": -0.091064453125,
+      "label": 0.0
+    }
+  },
+  "158": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.252685546875,
+      "label": 0.0
+    }
+  },
+  "159": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.0826416015625,
+      "label": null
+    }
+  },
+  "160": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": -0.11212158203125,
+      "label": null
+    }
+  },
+  "161": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.51220703125,
+      "label": 0.3626999855041504
+    }
+  },
+  "162": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.392333984375,
+      "label": 0.3626999855041504
+    }
+  },
+  "163": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.6337890625,
+      "label": null
+    }
+  },
+  "164": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.90869140625,
+      "label": null
+    }
+  },
+  "165": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.325439453125,
+      "label": 0.12600000202655792
+    }
+  },
+  "166": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.5322265625,
+      "label": 0.12600000202655792
+    }
+  },
+  "167": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.2144775390625,
+      "label": null
+    }
+  },
+  "168": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.1678466796875,
+      "label": null
+    }
+  },
+  "169": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.296142578125,
+      "label": 0.45210000872612
+    }
+  },
+  "170": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.6669921875,
+      "label": 0.45210000872612
+    }
+  },
+  "171": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.352294921875,
+      "label": null
+    }
+  },
+  "172": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.40771484375,
+      "label": null
+    }
+  },
+  "173": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.52099609375,
+      "label": 0.36800000071525574
+    }
+  },
+  "174": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.56640625,
+      "label": 0.36800000071525574
+    }
+  },
+  "175": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.1707763671875,
+      "label": null
+    }
+  },
+  "176": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": -0.02349853515625,
+      "label": null
+    }
+  },
+  "177": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.438720703125,
+      "label": 0.28690001368522644
+    }
+  },
+  "178": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.67138671875,
+      "label": 0.28690001368522644
+    }
+  },
+  "179": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.2451171875,
+      "label": null
+    }
+  },
+  "180": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.4638671875,
+      "label": null
+    }
+  },
+  "181": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.56298828125,
+      "label": 0.5892000198364258
+    }
+  },
+  "182": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.44482421875,
+      "label": 0.5892000198364258
+    }
+  },
+  "183": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.39208984375,
+      "label": null
+    }
+  },
+  "184": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.336181640625,
+      "label": null
+    }
+  },
+  "185": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.1400146484375,
+      "label": 0.6086000204086304
+    }
+  },
+  "186": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.209716796875,
+      "label": 0.22499999403953552
+    }
+  },
+  "187": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.465087890625,
+      "label": 0.3944000005722046
+    }
+  },
+  "188": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.275390625,
+      "label": 0.23309999704360962
+    }
+  },
+  "189": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.0897216796875,
+      "label": 0.15710000693798065
+    }
+  },
+  "190": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.41064453125,
+      "label": 0.5990999937057495
+    }
+  },
+  "191": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.214111328125,
+      "label": 0.4408999979496002
+    }
+  },
+  "192": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.21435546875,
+      "label": 0.29440000653266907
+    }
+  },
+  "193": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.2215576171875,
+      "label": 0.029899999499320984
+    }
+  },
+  "194": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.365966796875,
+      "label": 0.7724000215530396
+    }
+  },
+  "195": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.29296875,
+      "label": 0.8513000011444092
+    }
+  },
+  "196": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.47265625,
+      "label": 0.44859999418258667
+    }
+  },
+  "197": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.34814453125,
+      "label": 0.41999998688697815
+    }
+  },
+  "198": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.330810546875,
+      "label": 0.5044000148773193
+    }
+  },
+  "199": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.187255859375,
+      "label": 0.0
+    }
+  },
+  "200": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.5703125,
+      "label": 0.14920000731945038
+    }
+  },
+  "201": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.1846923828125,
+      "label": 0.5200999975204468
+    }
+  },
+  "202": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.609375,
+      "label": 0.6010000109672546
+    }
+  },
+  "203": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.1826171875,
+      "label": 0.47940000891685486
+    }
+  },
+  "204": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.50537109375,
+      "label": 0.3637999892234802
+    }
+  },
+  "205": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.5634765625,
+      "label": 0.3637999892234802
+    }
+  },
+  "206": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 1.115234375,
+      "label": null
+    }
+  },
+  "207": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.45458984375,
+      "label": null
+    }
+  },
+  "208": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.3203125,
+      "label": 0.13609999418258667
+    }
+  },
+  "209": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.297607421875,
+      "label": 0.13609999418258667
+    }
+  },
+  "210": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 1.1484375,
+      "label": null
+    }
+  },
+  "211": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.60009765625,
+      "label": null
+    }
+  },
+  "212": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.5146484375,
+      "label": 0.49799999594688416
+    }
+  },
+  "213": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.5166015625,
+      "label": 0.49799999594688416
+    }
+  },
+  "214": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.37939453125,
+      "label": null
+    }
+  },
+  "215": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.5302734375,
+      "label": null
+    }
+  },
+  "216": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.5302734375,
+      "label": 0.31369999051094055
+    }
+  },
+  "217": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.505859375,
+      "label": 0.31369999051094055
+    }
+  },
+  "218": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.391845703125,
+      "label": null
+    }
+  },
+  "219": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.59423828125,
+      "label": null
+    }
+  },
+  "220": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.40576171875,
+      "label": 0.3278000056743622
+    }
+  },
+  "221": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.45458984375,
+      "label": 0.3278000056743622
+    }
+  },
+  "222": {
+    "lung-cancer-subtyping": {
+      "pred": null,
+      "label": null
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": null,
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": null,
+      "label": null
+    }
+  },
+  "223": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.78515625,
+      "label": null
+    }
+  },
+  "224": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.450927734375,
+      "label": 0.35670000314712524
+    }
+  },
+  "225": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.320068359375,
+      "label": 0.35670000314712524
+    }
+  },
+  "226": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.07391357421875,
+      "label": null
+    }
+  },
+  "227": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 1.0205078125,
+      "label": null
+    }
+  },
+  "228": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.54296875,
+      "label": 0.4251999855041504
+    }
+  },
+  "229": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.491455078125,
+      "label": 0.4251999855041504
+    }
+  },
+  "230": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.41943359375,
+      "label": null
+    }
+  },
+  "231": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": -0.038970947265625,
+      "label": null
+    }
+  },
+  "232": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.384765625,
+      "label": 0.40400001406669617
+    }
+  },
+  "233": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.31640625,
+      "label": 0.40400001406669617
+    }
+  },
+  "234": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.81005859375,
+      "label": null
+    }
+  },
+  "235": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.59423828125,
+      "label": null
+    }
+  },
+  "236": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.49755859375,
+      "label": 0.739300012588501
+    }
+  },
+  "237": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.467529296875,
+      "label": 0.739300012588501
+    }
+  },
+  "238": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.73291015625,
+      "label": null
+    }
+  },
+  "239": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.94189453125,
+      "label": null
+    }
+  },
+  "240": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.497802734375,
+      "label": 0.5098000168800354
+    }
+  },
+  "241": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.5234375,
+      "label": 0.5703999996185303
+    }
+  },
+  "242": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.435546875,
+      "label": 0.07559999823570251
+    }
+  },
+  "243": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.25537109375,
+      "label": 0.4943999946117401
+    }
+  },
+  "244": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.253662109375,
+      "label": 0.19589999318122864
+    }
+  },
+  "245": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.2261962890625,
+      "label": 0.03689999878406525
+    }
+  },
+  "246": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.56689453125,
+      "label": 0.6272000074386597
+    }
+  },
+  "247": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.482666015625,
+      "label": 0.4262000024318695
+    }
+  },
+  "248": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.2276611328125,
+      "label": 0.2313999980688095
+    }
+  },
+  "249": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.1702880859375,
+      "label": 0.03220000118017197
+    }
+  },
+  "250": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.1690673828125,
+      "label": 0.4081000089645386
+    }
+  },
+  "251": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.42138671875,
+      "label": 0.10459999740123749
+    }
+  },
+  "252": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.25439453125,
+      "label": 0.4943000078201294
+    }
+  },
+  "253": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.625,
+      "label": 0.5896000266075134
+    }
+  },
+  "254": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.322509765625,
+      "label": 0.06480000168085098
+    }
+  },
+  "255": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.055328369140625,
+      "label": 0.06480000168085098
+    }
+  },
+  "256": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.1656494140625,
+      "label": null
+    }
+  },
+  "257": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.465087890625,
+      "label": null
+    }
+  },
+  "258": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.4189453125,
+      "label": 0.21080000698566437
+    }
+  },
+  "259": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.60498046875,
+      "label": 0.21080000698566437
+    }
+  },
+  "260": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.35546875,
+      "label": null
+    }
+  },
+  "261": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.40771484375,
+      "label": null
+    }
+  },
+  "262": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.315185546875,
+      "label": 0.6599000096321106
+    }
+  },
+  "263": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.357666015625,
+      "label": 0.10840000212192535
+    }
+  },
+  "264": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.44384765625,
+      "label": 0.21529999375343323
+    }
+  },
+  "265": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.2149658203125,
+      "label": 0.5081999897956848
+    }
+  },
+  "266": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.432373046875,
+      "label": 0.8216000199317932
+    }
+  },
+  "267": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.5458984375,
+      "label": 0.48080000281333923
+    }
+  },
+  "268": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.20947265625,
+      "label": 0.2671999931335449
+    }
+  },
+  "269": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.474365234375,
+      "label": 0.03180000185966492
+    }
+  },
+  "270": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.595703125,
+      "label": 0.11550000309944153
+    }
+  },
+  "271": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.37109375,
+      "label": 0.33889999985694885
+    }
+  },
+  "272": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.1361083984375,
+      "label": 0.5289999842643738
+    }
+  },
+  "273": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.308837890625,
+      "label": 0.5394999980926514
+    }
+  },
+  "274": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.37548828125,
+      "label": 0.38530001044273376
+    }
+  },
+  "275": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.2568359375,
+      "label": 9.999999747378752e-05
+    }
+  },
+  "276": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.71826171875,
+      "label": 0.031700000166893005
+    }
+  },
+  "277": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.39794921875,
+      "label": 0.5166000127792358
+    }
+  },
+  "278": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.390380859375,
+      "label": 0.33079999685287476
+    }
+  },
+  "279": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.380859375,
+      "label": 0.45890000462532043
+    }
+  },
+  "280": {
+    "lung-cancer-subtyping": {
+      "pred": null,
+      "label": null
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": null,
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": null,
+      "label": null
+    }
+  },
+  "281": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.10992431640625,
+      "label": 0.02759999968111515
+    }
+  },
+  "282": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.4853515625,
+      "label": 0.14270000159740448
+    }
+  },
+  "283": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.315673828125,
+      "label": 0.38960000872612
+    }
+  },
+  "284": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.2490234375,
+      "label": 0.13689999282360077
+    }
+  },
+  "285": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.366455078125,
+      "label": 0.13490000367164612
+    }
+  },
+  "286": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.266845703125,
+      "label": 0.09229999780654907
+    }
+  },
+  "287": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.220947265625,
+      "label": 0.24279999732971191
+    }
+  },
+  "288": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.343017578125,
+      "label": 0.5906000137329102
+    }
+  },
+  "289": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.1580810546875,
+      "label": 0.06809999793767929
+    }
+  },
+  "290": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.34033203125,
+      "label": 0.00019999999494757503
+    }
+  },
+  "291": {
+    "lung-cancer-subtyping": {
+      "pred": null,
+      "label": null
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": null,
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": null,
+      "label": null
+    }
+  },
+  "292": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.365966796875,
+      "label": 0.5964999794960022
+    }
+  },
+  "293": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.34375,
+      "label": 0.07689999788999557
+    }
+  },
+  "294": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.27392578125,
+      "label": 0.10809999704360962
+    }
+  },
+  "295": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.339599609375,
+      "label": 0.7276999950408936
+    }
+  },
+  "296": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.1441650390625,
+      "label": 0.06390000134706497
+    }
+  },
+  "297": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.4599609375,
+      "label": 0.6062999963760376
+    }
+  },
+  "298": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.30419921875,
+      "label": 0.1476999968290329
+    }
+  },
+  "299": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.294677734375,
+      "label": 0.10970000177621841
+    }
+  },
+  "300": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.3857421875,
+      "label": 0.014499999582767487
+    }
+  },
+  "301": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.2447509765625,
+      "label": 0.3528999984264374
+    }
+  },
+  "302": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.300048828125,
+      "label": null
+    }
+  },
+  "303": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.327880859375,
+      "label": 0.27320000529289246
+    }
+  },
+  "304": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.1312255859375,
+      "label": 0.24300000071525574
+    }
+  },
+  "305": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.2236328125,
+      "label": 0.13699999451637268
+    }
+  },
+  "306": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.333740234375,
+      "label": 0.40130001306533813
+    }
+  },
+  "307": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.449951171875,
+      "label": 0.09839999675750732
+    }
+  },
+  "308": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.321533203125,
+      "label": 0.38769999146461487
+    }
+  },
+  "309": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.229736328125,
+      "label": 0.32510000467300415
+    }
+  },
+  "310": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.5322265625,
+      "label": 0.22030000388622284
+    }
+  },
+  "311": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.336669921875,
+      "label": 0.03240000084042549
+    }
+  },
+  "312": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.3701171875,
+      "label": 0.038100000470876694
+    }
+  },
+  "313": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.3525390625,
+      "label": 0.04179999977350235
+    }
+  },
+  "314": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.3515625,
+      "label": 0.4162999987602234
+    }
+  },
+  "315": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.06207275390625,
+      "label": 0.6403999924659729
+    }
+  },
+  "316": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.2978515625,
+      "label": 0.34439998865127563
+    }
+  },
+  "317": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.242919921875,
+      "label": 0.41130000352859497
+    }
+  },
+  "318": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.3740234375,
+      "label": 0.33090001344680786
+    }
+  },
+  "319": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.421630859375,
+      "label": 0.06239999830722809
+    }
+  },
+  "320": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.32373046875,
+      "label": 0.4074000120162964
+    }
+  },
+  "321": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.267333984375,
+      "label": 0.3732999861240387
+    }
+  },
+  "322": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.33935546875,
+      "label": 0.11389999836683273
+    }
+  },
+  "323": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.44384765625,
+      "label": 0.4034000039100647
+    }
+  },
+  "324": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.28466796875,
+      "label": 0.1906999945640564
+    }
+  },
+  "325": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.376708984375,
+      "label": 0.16689999401569366
+    }
+  },
+  "326": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.35595703125,
+      "label": 0.14300000667572021
+    }
+  },
+  "327": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.50439453125,
+      "label": 0.12630000710487366
+    }
+  },
+  "328": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.330078125,
+      "label": 0.3718999922275543
+    }
+  },
+  "329": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.197021484375,
+      "label": 0.26910001039505005
+    }
+  },
+  "330": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.38427734375,
+      "label": 0.09359999746084213
+    }
+  },
+  "331": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.32763671875,
+      "label": 0.03689999878406525
+    }
+  },
+  "332": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.330322265625,
+      "label": 0.21809999644756317
+    }
+  },
+  "333": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.50927734375,
+      "label": 0.12139999866485596
+    }
+  },
+  "334": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.30615234375,
+      "label": 0.29820001125335693
+    }
+  },
+  "335": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.1981201171875,
+      "label": 0.13359999656677246
+    }
+  },
+  "336": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.09326171875,
+      "label": 0.17479999363422394
+    }
+  },
+  "337": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.4267578125,
+      "label": 0.16769999265670776
+    }
+  },
+  "338": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.5673828125,
+      "label": 0.3273000121116638
+    }
+  },
+  "339": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.3046875,
+      "label": 0.03460000082850456
+    }
+  },
+  "340": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.227783203125,
+      "label": 0.29919999837875366
+    }
+  },
+  "341": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.53076171875,
+      "label": 0.2459000051021576
+    }
+  },
+  "342": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.3623046875,
+      "label": 0.2370000034570694
+    }
+  },
+  "343": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.226318359375,
+      "label": 0.04179999977350235
+    }
+  },
+  "344": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.2568359375,
+      "label": 0.2386000007390976
+    }
+  },
+  "345": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.006572723388671875,
+      "label": null
+    }
+  },
+  "346": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.187255859375,
+      "label": 0.4052000045776367
+    }
+  },
+  "347": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "normal"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": null
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.2052001953125,
+      "label": null
+    }
+  },
+  "348": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.278076171875,
+      "label": 0.4544999897480011
+    }
+  },
+  "349": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.407470703125,
+      "label": 0.2549000084400177
+    }
+  },
+  "350": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.09478759765625,
+      "label": 0.5031999945640564
+    }
+  },
+  "351": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.356201171875,
+      "label": 0.00039999998989515007
+    }
+  },
+  "352": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.274658203125,
+      "label": 0.0
+    }
+  },
+  "353": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.1533203125,
+      "label": 0.41830000281333923
+    }
+  },
+  "354": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.425048828125,
+      "label": 0.5108000040054321
+    }
+  },
+  "355": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.28515625,
+      "label": 0.000699999975040555
+    }
+  },
+  "356": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.40625,
+      "label": 0.319599986076355
+    }
+  },
+  "357": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.4306640625,
+      "label": 0.1859000027179718
+    }
+  },
+  "358": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.302734375,
+      "label": 0.25920000672340393
+    }
+  },
+  "359": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.33203125,
+      "label": 0.5246000289916992
+    }
+  },
+  "360": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.224853515625,
+      "label": 0.0
+    }
+  },
+  "361": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.609375,
+      "label": 0.3508000075817108
+    }
+  },
+  "362": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.1904296875,
+      "label": 0.3499000072479248
+    }
+  },
+  "363": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.2110595703125,
+      "label": 0.258899986743927
+    }
+  },
+  "364": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.10003662109375,
+      "label": 0.22859999537467957
+    }
+  },
+  "365": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.1973876953125,
+      "label": 0.013500000350177288
+    }
+  },
+  "366": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.32568359375,
+      "label": 0.6218000054359436
+    }
+  },
+  "367": {
+    "lung-cancer-subtyping": {
+      "pred": "normal",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.29833984375,
+      "label": 0.13040000200271606
+    }
+  },
+  "368": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.2734375,
+      "label": 0.5557000041007996
+    }
+  },
+  "369": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.29443359375,
+      "label": 0.49390000104904175
+    }
+  },
+  "370": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.60302734375,
+      "label": 0.35519999265670776
+    }
+  },
+  "371": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.47119140625,
+      "label": 0.1932000070810318
+    }
+  },
+  "372": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.2587890625,
+      "label": 0.28060001134872437
+    }
+  },
+  "373": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.5419921875,
+      "label": 0.09440000355243683
+    }
+  },
+  "374": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.322021484375,
+      "label": 0.30070000886917114
+    }
+  },
+  "375": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.342529296875,
+      "label": 0.06769999861717224
+    }
+  },
+  "376": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.297119140625,
+      "label": 0.27379998564720154
+    }
+  },
+  "377": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.35302734375,
+      "label": 0.1356000006198883
+    }
+  },
+  "378": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.326416015625,
+      "label": 0.2190999984741211
+    }
+  },
+  "379": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.351318359375,
+      "label": 0.44760000705718994
+    }
+  },
+  "380": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.345947265625,
+      "label": 0.4140999913215637
+    }
+  },
+  "381": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.340087890625,
+      "label": 0.18619999289512634
+    }
+  },
+  "382": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.262451171875,
+      "label": 0.01140000019222498
+    }
+  },
+  "383": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.298095703125,
+      "label": 0.19709999859333038
+    }
+  },
+  "384": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.28369140625,
+      "label": 0.6868000030517578
+    }
+  },
+  "385": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.285400390625,
+      "label": 0.19750000536441803
+    }
+  },
+  "386": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.346923828125,
+      "label": 0.38429999351501465
+    }
+  },
+  "387": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.364990234375,
+      "label": 0.7150999903678894
+    }
+  },
+  "388": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.0160675048828125,
+      "label": 0.4311000108718872
+    }
+  },
+  "389": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.494140625,
+      "label": 0.04309999942779541
+    }
+  },
+  "390": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.87109375,
+      "label": 0.6674000024795532
+    }
+  },
+  "391": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.41064453125,
+      "label": 0.4909999966621399
+    }
+  },
+  "392": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.4521484375,
+      "label": 0.5953999757766724
+    }
+  },
+  "393": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.322265625,
+      "label": 0.6276999711990356
+    }
+  },
+  "394": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.525390625,
+      "label": 0.46230000257492065
+    }
+  },
+  "395": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.32958984375,
+      "label": 0.6606000065803528
+    }
+  },
+  "396": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.2115478515625,
+      "label": 0.6557999849319458
+    }
+  },
+  "397": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Late Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.12115478515625,
+      "label": 0.6545000076293945
+    }
+  },
+  "398": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.342529296875,
+      "label": 0.2578999996185303
+    }
+  },
+  "399": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.27099609375,
+      "label": 0.12720000743865967
+    }
+  },
+  "400": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.281494140625,
+      "label": 0.00039999998989515007
+    }
+  },
+  "401": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.1971435546875,
+      "label": 0.01940000057220459
+    }
+  },
+  "402": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.32763671875,
+      "label": 0.07599999755620956
+    }
+  },
+  "403": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.3515625,
+      "label": 0.4205000102519989
+    }
+  },
+  "404": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.75146484375,
+      "label": 0.483599990606308
+    }
+  },
+  "405": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.7392578125,
+      "label": 0.3804999887943268
+    }
+  },
+  "406": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.39404296875,
+      "label": 0.15449999272823334
+    }
+  },
+  "407": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.392333984375,
+      "label": 0.33649998903274536
+    }
+  },
+  "408": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "luad"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.413818359375,
+      "label": 0.5443000197410583
+    }
+  },
+  "409": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.44287109375,
+      "label": 0.4490000009536743
+    }
+  },
+  "410": {
+    "lung-cancer-subtyping": {
+      "pred": "lusc",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Late Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.36279296875,
+      "label": 0.5598000288009644
+    }
+  },
+  "411": {
+    "lung-cancer-subtyping": {
+      "pred": "luad",
+      "label": "lusc"
+    },
+    "AJCC_PATHOLOGIC_TUMOR_STAGE_reduced": {
+      "pred": "Early Stage",
+      "label": "Early Stage"
+    },
+    "FRACTION_GENOME_ALTERED": {
+      "pred": 0.325927734375,
+      "label": 0.5419999957084656
+    }
+  }
+}
