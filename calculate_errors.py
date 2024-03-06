@@ -14,6 +14,20 @@ def generate_file_dicts(dir):
     
     return json_files        
 
+def calculate_error(json_file, target):
+    with open(json_file, 'r') as f:
+        data = json.load(f)
+
+    errors = []
+
+    for _, value in data.items():
+        pred = value.get(target, {}).get('pred')
+        label = value.get(target, {}).get('label')
+        if pred is None or label is None:
+            continue
+        error = round((pred - label), 3)
+        errors.append(error)   
+    return errors
 
 def calculate_abs_error(json_file, target):
     with open(json_file, 'r') as f:
@@ -37,9 +51,9 @@ def numerical_task_error(classifiers):
 
     for classifier_name, json_file in classifiers.items():
         if 'Purity' in classifier_name:
-            purity_errors[classifier_name] = calculate_abs_error(json_file, "purity")
+            purity_errors[classifier_name] = calculate_error(json_file, "purity")
         if 'FGA' in classifier_name:
-            fga_errors[classifier_name] = calculate_abs_error(json_file, "FRACTION_GENOME_ALTERED")
+            fga_errors[classifier_name] = calculate_error(json_file, "FRACTION_GENOME_ALTERED")
 
     return pd.DataFrame(purity_errors), pd.DataFrame(fga_errors)
 
@@ -49,8 +63,8 @@ def main():
     json_files = generate_file_dicts(json_dir)
 
     purity_errors, fga_errors = numerical_task_error(json_files)
-    purity_errors.to_csv('errors/purity.csv', index_label='Sample')
-    fga_errors.to_csv('errors/fga.csv', index_label='Sample')
+    purity_errors.to_csv('error/purity.csv', index_label='Sample')
+    fga_errors.to_csv('error/fga.csv', index_label='Sample')
 
 
 if __name__ == "__main__":
