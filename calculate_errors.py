@@ -27,10 +27,10 @@ def process_classifiers(classifiers):
 
 def main():
     json_files = {
-    'Purity-FGA': 'data\Purity-FGA.json',
-    'Staging-Purity-FGA': 'data\Staging-Purity-FGA.json',
-    'Subtyping-Purity-FGA': 'data\Subtyping-Purity-FGA.json',
-    'Subtyping-Staging-Purity-FGA': 'data\Subtyping-Staging-Purity-FGA.json'
+    'Purity-FGA': 'data/Purity-FGA.json',
+    'Staging-Purity-FGA': 'data/Staging-Purity-FGA.json',
+    'Subtyping-Purity-FGA': 'data/Subtyping-Purity-FGA.json',
+    'Subtyping-Staging-Purity-FGA': 'data/Subtyping-Staging-Purity-FGA.json'
     }
 
     purity_errors, fga_errors = process_classifiers(json_files)
