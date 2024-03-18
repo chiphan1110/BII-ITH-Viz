@@ -1,5 +1,5 @@
-# jupyter nbconvert --output-dir="./reqs" --to script plot_errors.ipynb
 matplotlib==3.7.2
 numpy==1.24.3
 pandas==2.0.3
-seaborn==0.12.2
+scikit_learn==1.3.0
+seaborn==0.13.2
